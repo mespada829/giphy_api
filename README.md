@@ -6,7 +6,7 @@ This Gif App was created using the Giphy API, you can see the current Gif's or s
 Scroll down and enjoy the Gif action
 
 
-<strong> Link to App </strong> -  <href "https://mespada829.github.io/giphy_api/"> 
+<a href=" https://mespada829.github.io/giphy_api/">Link to Gif it Up</a>
 
 <img src="gifapp.jpg" width="745"> 
 
